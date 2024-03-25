@@ -1,8 +1,8 @@
 # wave-function-collapse
 
-Playing around with the wave function collapse algorithim. This algorithim uses a tilesett to create new variations of a grid by collapsing possible options down. 
+Playing around with the wave function collapse algorithim. This algorithim uses a tileset to create new variations of a grid by collapsing possible options down. 
 
-![GIF animation of WFC algorithm](gifs/wfc.gif)
+![GIF animation of WFC algorithm](./the-coding-train/gifs/wfc.gif)
 
 - [Original Wave Function Collapse video](https://thecodingtrain.com/challenges/171-wave-function-collapse)
 
